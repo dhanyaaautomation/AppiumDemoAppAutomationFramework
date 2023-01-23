@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-27T18:10:59 IST" name="Suite" finished-at="2022-10-27T18:15:45 IST" duration-ms="285702">
+    <groups>
+    </groups>
+    <test started-at="2022-10-27T18:10:59 IST" name="AppiumTest" finished-at="2022-10-27T18:15:45 IST" duration-ms="285702">
+      <class name="com.appiumlearning.testcases.ExpandCollapseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.appiumlearning.testcases.ExpandCollapseTest@173ed316]" started-at="2022-10-27T18:10:59 IST" name="setUp" finished-at="2022-10-27T18:11:11 IST" duration-ms="11813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="expandCollapseTest()[pri:0, instance:com.appiumlearning.testcases.ExpandCollapseTest@173ed316]" started-at="2022-10-27T18:11:11 IST" name="expandCollapseTest" finished-at="2022-10-27T18:15:45 IST" duration-ms="273318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expandCollapseTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.appiumlearning.testcases.ExpandCollapseTest@173ed316]" started-at="2022-10-27T18:15:45 IST" name="tearDown" finished-at="2022-10-27T18:15:45 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appiumlearning.testcases.ExpandCollapseTest -->
+    </test> <!-- AppiumTest -->
+  </suite> <!-- Suite -->
+</testng-results>
